@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Martín Torreira Portos",
-    "label": "Estudiante de ingeniería informática en la Universidad de A Coruña [UDC]",
-    "image": "/me.png",
-    "summary": "Actualmente cursando un grado de ingeniería informática. Entusiasmado con el desarrollo pero abierto a realizar cualquier proyecto relacionado con la informática.",
+    "label": "Estudiante de Ingeniería informática en la Universidad de A Coruña [UDC]",
+    "image": "/me_small.png",
+    "summary": "Estudiante de Ingeniería informática, solo con el TFG pendiente. Experiencia académica en diversas áreas de la ingeniería, como algoritmos, redes, desarrollo web, BDs, ciberseguridad y sistemas operativos. Con una mentalidad analítica y habilidades para resolver problemas, busco oportunidades para aplicar mis conocimientos en el marco laboral.",
     "email": "torreira.martin155@gmail.com",
     "url": "",
     "linkedin": "https://www.linkedin.com/in/martin-torreira-805b06215/",
@@ -90,6 +90,13 @@
         "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
       ]
     },
+    {
+      "name": "SpringBoot",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
 
     {
       "name": "C",
@@ -138,6 +145,20 @@
     
     {
       "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Flutter",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Python",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
