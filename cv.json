@@ -3,7 +3,7 @@
     "name": "Martín Torreira Portos",
     "label": "Estudiante de Ingeniería informática en la Universidad de A Coruña [UDC]",
     "image": "/me_small.png",
-    "summary": "Estudiante de Ingeniería informática, solo con el TFG pendiente. Experiencia académica en diversas áreas de la ingeniería, como algoritmos, redes, desarrollo web, BDs, ciberseguridad y sistemas operativos. Con una mentalidad analítica y habilidades para resolver problemas, busco oportunidades para aplicar mis conocimientos en el marco laboral.",
+    "summary": "Estudiante de Ingeniería informática, solo con el TFG pendiente. Experiencia académica en diversas áreas de la ingeniería, como algoritmos, redes, desarrollo web, bases de datos, ciberseguridad y sistemas operativos. Con una mentalidad analítica y habilidades para resolver problemas.",
     "email": "torreira.martin155@gmail.com",
     "url": "",
     "linkedin": "https://www.linkedin.com/in/martin-torreira-805b06215/",
@@ -30,6 +30,13 @@
   },
   "work": [
     {
+      "name": "Accenture",
+      "position": "Prácticas como PLM",
+      "url": "https://www.accenture.com/es-es",
+      "summary": "Prácticas en Accenture como PLM realizando tareas de configuración.",
+      "startDate": "2025"
+    },
+    {
       "name": "Randstad",
       "position": "Carga y descarga en logística",
       "url": "https://myrandstad.randstad.es/myrandstad/impulsa",
@@ -54,7 +61,7 @@
     ]
   }],
   "education": [{
-    "institution": "Universidade de A Coruña",
+    "institution": "Universidad de A Coruña",
     "url": "https://www.udc.es/",
     "area": "Ingeniero de Software",
     "studyType": "Grado Superior de Ingeniería informática",
@@ -82,7 +89,12 @@
         "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
       ]
     },
-
+    {
+      "name": "PostgreSQL"
+    },
+    {
+      "name": "Oracle"
+    },
     {
       "name": "Java",
       "level": "Avanzado",
@@ -178,8 +190,17 @@
       "keywords": [
         "Control de Versiones", "Colaboración", "Código Fuente", "Git"
       ]
+    },
+    {
+      "name": "Jenkins"
+    },
+    {
+      "name": "Redmine"
+    },
+    {
+      "name": "JUnit"
     }
-    
+  
   ],
   "languages": [
     {
@@ -206,23 +227,24 @@
     {
       "name": "Billboard Manager",
       "isActive": false,
-      "description": "Aplicación web para gestionar carteleras de un cine",
+      "description": "Aplicación web para gestionar las carteleras de un cine",
       "highlights": [
-        "Proyecto de carrera",
-        "Terminado",
-        "Java & Javascript",
-        "Redux"
+        "Java",
+        "Redux",
+        "Javascript",
+        "Bootstrap",
+        "MySQL"
       ],
       "url": "https://github.com/MartinTorreira/Billboard-Manager.git"
     },
     {
       "name": "Quote assistant",
-      "isActive": true,
-      "description": "Proyecto de desarrollo web para la gestión de citas",
+      "isActive": false,
+      "description": "Aplicación web para gestionar tareas del día a día",
       "highlights": [
-        "Proyecto personal",
         "Multidioma",
-        "Java & JavaScript",
+        "Java",
+        "JavaScript",
         "React",
         "MySQL"
       ],
@@ -231,21 +253,20 @@
     {
       "name": "Photogram",
       "isActive": false,
-      "description": "Aplicación web .NET en donde se publican y comentan fotos",
+      "description": "Aplicación web .NET basada en Instagram",
       "highlights": [
-        "Proyecto de carrera",
         ".NET",
-        "C#", "SQL"
+        "C#", "SQL Server", "Entity Framework"
       ],
       "url": "https://github.com/MartinTorreira/Photogram"
     },
     {
       "name": "Bank Manager",
       "isActive": false,
-      "description": "Código basado en la concurrencia para la gestión de operaciones bancarias",
+      "description": "Código concurrente para gestionar operaciones bancarias",
       "highlights": [
         "C",
-        "Concurrencia"
+        "Concurrencia", "Multithreading"
       ],
       "url": "https://github.com/MartinTorreira/bank-manager.git",
       "github": "https://github.com/midudev/codi.link"
@@ -253,10 +274,10 @@
     {
       "name": "Covid-19 App",
       "isActive": false,
-      "description": "Aplicación de escritorio para gestionar posibles casos covid",
+      "description": "Aplicación para gestionar posibles casos Covid",
       "highlights": [
-        "Proyecto de carrera",
-        "Python"
+        "Python",
+        "Aplicación de escritorio"
       ],
       "url": "https://github.com/MartinTorreira/covid-19-desktop-app.git",
       "github": ""
