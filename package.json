@@ -10,6 +10,7 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@vercel/analytics": "^1.4.1",
     "astro": "^4.5.9",
     "hotkeypad": "^0.1.1",
     "ninja-keys": "^1.2.2",
