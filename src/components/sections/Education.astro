@@ -9,7 +9,7 @@ import { education } from "@cv"
         {
             education.map(({ institution, url, area, studyType, startDate, endDate, courses}) => {
                 
-                const startYear = new Date(startDate).getFullYear();
+                const startYear = startDate != "" ? new Date(startDate).getFullYear() : '';
                 const endYear = endDate != "" ? new Date(endDate).getFullYear() : 'Presente';
                 const years = `${startYear} - ${endYear}`
                 
