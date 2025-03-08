@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Martín Torreira Portos",
-    "label": "Estudiante de Ingeniería informática en la Universidad de A Coruña [UDC]",
+    "label": "Graduado en Ingeniería informática en la Universidad de A Coruña [UDC]",
     "image": "/me_small.png",
-    "summary": "Estudiante de Ingeniería informática, solo con el TFG pendiente. Experiencia académica en diversas áreas de la ingeniería, como algoritmos, redes, desarrollo web, bases de datos, ciberseguridad y sistemas operativos. Con una mentalidad analítica y habilidades para resolver problemas.",
+    "summary": "Experiencia académica en diversas áreas de la ingeniería, como algoritmos, redes, desarrollo web, bases de datos, ciberseguridad y sistemas operativos. Con una mentalidad analítica y habilidades para resolver problemas.",
     "email": "torreira.martin155@gmail.com",
     "url": "",
     "linkedin": "https://www.linkedin.com/in/martin-torreira-805b06215/",
@@ -31,9 +31,9 @@
   "work": [
     {
       "name": "Accenture",
-      "position": "Prácticas en PLM",
+      "position": "Contrato de prácticas",
       "url": "https://www.accenture.com/es-es",
-      "summary": "Prácticas en Accenture realizando tareas de configuración.",
+      "summary": "Prácticas en PLM con Teamcenter y BMIDE, participando en la configuración y personalización del sistema para la gestión del ciclo de vida del producto.",
       "startDate": "2025"
     },
     {
@@ -64,9 +64,9 @@
     "institution": "Universidad de A Coruña",
     "url": "https://www.udc.es/",
     "area": "Ingeniero de Software",
-    "studyType": "Grado Superior de Ingeniería informática",
-    "startDate": "2019-01-01",
-    "endDate": "" ,
+    "studyType": "Grado en Ingeniería informática",
+    "startDate": "",
+    "endDate": "2025" ,
     "score": " ",
     "courses": [
       "DB1101 - Basic SQL"
